@@ -1,5 +1,0 @@
-<?php
-
-ehcho "Abc.php"
-  
-?>
